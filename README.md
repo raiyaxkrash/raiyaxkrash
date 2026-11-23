@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/raiyaxkrash?style=flat-square&logo=github&color=1f6feb&labelColor=0d1117)](https://github.com/raiyaxkrash)
 [![GitHub stars](https://img.shields.io/github/stars/raiyaxkrash?affiliations=OWNER&style=flat-square&logo=github&color=e3b341&labelColor=0d1117)](https://github.com/raiyaxkrash?tab=repositories)
-[![Public repos](https://img.shields.io/badge/projects-6-238636?style=flat-square&logo=git&logoColor=white&labelColor=0d1117)](https://github.com/raiyaxkrash?tab=repositories)
+[![Public repos](https://img.shields.io/badge/projects-5-238636?style=flat-square&logo=git&logoColor=white&labelColor=0d1117)](https://github.com/raiyaxkrash?tab=repositories)
 
 </div>
 
@@ -23,7 +23,6 @@
 | **[kova](https://github.com/raiyaxkrash/kova)** | Единый нативный лаунчер для установки, запуска и автообновления всех моих Windows-утилит в один клик | `Rust` `Tauri 2` `Launcher` | [![Release](https://img.shields.io/github/v/release/raiyaxkrash/kova?style=flat-square&color=1f6feb&labelColor=0d1117)](https://github.com/raiyaxkrash/kova/releases) |
 | **[dynamic-island](https://github.com/raiyaxkrash/dynamic-island)** | Нативный Dynamic Island для Windows 10/11 (1.26 МБ): медиа, громкость в 1 клик, полка файлов, буфер обмена и помодоро на 60 FPS | `Rust` `Tauri 2` `Win32` | [![Release](https://img.shields.io/github/v/release/raiyaxkrash/dynamic-island?style=flat-square&color=1f6feb&labelColor=0d1117)](https://github.com/raiyaxkrash/dynamic-island/releases) |
 | **[zapret2-rust](https://github.com/raiyaxkrash/zapret2-rust)** | Графическая оболочка для `zapret2` на Windows: автоподбор стратегии, сторож, диагностика и прокси для Telegram в один клик | `Rust` `Tauri 2` `WinWS` | [![Release](https://img.shields.io/github/v/release/raiyaxkrash/zapret2-rust?style=flat-square&color=1f6feb&labelColor=0d1117)](https://github.com/raiyaxkrash/zapret2-rust/releases) |
-| **[swifttab](https://github.com/raiyaxkrash/swifttab)** | Современный легковесный `Alt+Tab` переключатель окон для Windows с живыми превью (`PrintWindow`) и мгновенным поиском | `Rust` `Tauri 2` `Win32` | [![Release](https://img.shields.io/github/v/release/raiyaxkrash/swifttab?style=flat-square&color=1f6feb&labelColor=0d1117)](https://github.com/raiyaxkrash/swifttab/releases) |
 | **[snapshot](https://github.com/raiyaxkrash/snapshot)** | Скриншотер для Windows по `PrintScreen`: встроенный редактор, размытие, Beautify и оффлайн OCR через WinRT | `Rust` `Tauri 2` `WinRT` | [![Release](https://img.shields.io/github/v/release/raiyaxkrash/snapshot?style=flat-square&color=1f6feb&labelColor=0d1117)](https://github.com/raiyaxkrash/snapshot/releases) |
 | **[SkyCasino](https://github.com/raiyaxkrash/SkyCasino)** | Мод казино для Minecraft 1.20.1 Forge (ATM9: To the Sky): 6 игр, планшет, VIP-карта, магазин призов и кейсы | `Java` `Forge` `Minecraft` | [![Release](https://img.shields.io/github/v/release/raiyaxkrash/SkyCasino?style=flat-square&color=1f6feb&labelColor=0d1117)](https://github.com/raiyaxkrash/SkyCasino/releases) |
 
